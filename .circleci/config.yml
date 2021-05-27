@@ -6,7 +6,7 @@ executors:
       - image: cimg/base:2020.01
   macos:
     macos:
-      xcode: 11.4
+      xcode: 11.4.1
 
 orbs:
   node: circleci/node@2.0.0
